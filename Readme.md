@@ -59,6 +59,10 @@ You can add, edit, mark, share, and delete tasks.
 
 ---
 
+## 📹 Demo
+
+[Click here to watch the demo video](assets/chamindu.mp4)
+
 ## Project Structure
 
 App.js
